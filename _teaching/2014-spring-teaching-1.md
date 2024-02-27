@@ -1,20 +1,23 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "School of Science, Tianjin, Hebei University of Technology"
+date: 2022-09-01
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course in statistical learning methods designed for junior graduate students. The course covers the principal methods of statistical learning, with a particular focus on supervised learning methods. Topics include perceptron, k-nearest neighbors, naive Bayes, decision trees, logistic regression and maximum entropy models, support vector machines, boosting methods, EM algorithm, hidden Markov models, and conditional random fields. Based on R.
 
-Heading 1
+Part 1
 ======
+Learn the basiscs of R. 
 
-Heading 2
+Part 2
 ======
+Mathematical principles of statistical learning methods. [Reference book](https://github.com/SmirkCao/Lihang)
 
-Heading 3
+Part 3
 ======
+Statistical modeling with R.
