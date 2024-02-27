@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2023-02-15
 venue: 'BioMedInformatics'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.mdpi.com/2673-7426/3/1/10)'
+paperurl: 'https://www.mdpi.com/2673-7426/3/1/10'
 ---
