@@ -19,12 +19,12 @@ Education
 
 Skills
 ======
-* Python
-  * GNNs model
 * R
   * Statistical learning model
   * Data analysis
   * Create R packages
+* Python
+  * GNNs model
 * Plink
 
 Work
