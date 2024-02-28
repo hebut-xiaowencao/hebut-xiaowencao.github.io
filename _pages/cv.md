@@ -49,6 +49,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Journal Referee 
+======
+* BMC Medical Research Methodology
+
 Some student honors and awards
 ======
 * PhD
