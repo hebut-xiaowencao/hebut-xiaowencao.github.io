@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Service and Outreach/
 title: "Journal Referee"
 ---
 
