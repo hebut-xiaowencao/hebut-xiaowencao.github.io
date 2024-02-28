@@ -26,10 +26,6 @@ Skills
 * Python
   * GNNs model
 * Plink
-
-Work
-======
-* Data Analysis, School of Undergraduate, Hebei University of Technology (2018)
   
 Publications
 ======
@@ -53,6 +49,10 @@ Journal Referee
 ======
 * BMC Medical Research Methodology
 
+Work
+======
+* Data Analysis, School of Undergraduate, Hebei University of Technology (2018)
+  
 Some student honors and awards
 ======
 * PhD
