@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1-Statistical Learning Methods based on R"
+title: "Teaching experience 1 - Statistical Learning Methods based on R"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
