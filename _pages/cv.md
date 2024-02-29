@@ -61,17 +61,14 @@ Some student honors and awards
 
 * Master
   * 2019-2020 President of the Student Union
-  * 2019 Second-class Academic Scholarship
+  * 2019 University Academic Scholarship
   * 2020 Excellent Student Cadre
-  * 2020 Excellent League Member
  
 * Undergraduate
-  * 2014-2018 Class Monitor
+  * 2014-2018 Class President
   * 2015-2016 Debate Team Leader
-  * 2015 Best Debater
+  * 2015 School Best Debater Award
   * 2015 Excellent Student Cadre
-  * 2016 Excellent League Member
-  * 2016 Advanced Individual of Social Work
-  * 2016 School-level Scholarship
+  * 2016 University Scholarship
   * 2017 Excellent Student Cadre
 
