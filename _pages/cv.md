@@ -53,7 +53,7 @@ Work
 ======
 * Data Analysis, School of Undergraduate, Hebei University of Technology (2018)
   
-Some student honors and awards
+Student honors and awards
 ======
 * PhD
   * 2022-2024 Fuding from Chinese Scholarship Consul(CSC)
